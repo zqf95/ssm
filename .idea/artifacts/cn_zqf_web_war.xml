@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cn.zqf.web:war">
+    <output-path>$PROJECT_DIR$/cn.zqf.web/target</output-path>
+    <root id="archive" name="cn.zqf.web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cn.zqf.web:war exploded" />
+    </root>
+  </artifact>
+</component>

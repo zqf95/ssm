@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cn.zqf.dao/cn.zqf.dao.iml" filepath="$PROJECT_DIR$/cn.zqf.dao/cn.zqf.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn.zqf.domain/cn.zqf.domain.iml" filepath="$PROJECT_DIR$/cn.zqf.domain/cn.zqf.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn.zqf.service/cn.zqf.service.iml" filepath="$PROJECT_DIR$/cn.zqf.service/cn.zqf.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn.zqf.web/cn.zqf.web.iml" filepath="$PROJECT_DIR$/cn.zqf.web/cn.zqf.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm8.iml" filepath="$PROJECT_DIR$/ssm8.iml" />
+    </modules>
+  </component>
+</project>
